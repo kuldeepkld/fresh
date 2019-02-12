@@ -1,0 +1,6 @@
+com\crm\qa\testcasespack\checkTest.class
+com\crm\qa\testcasespack\LoginPageTest.class
+com\crm\qa\testcasespack\ListenerTest.class
+com\crm\qa\testcasespack\AddTaskPageTest.class
+com\crm\qa\testcasespack\HomePageTest.class
+com\crm\qa\testcasespack\PeopleAndOrganisationsTest.class

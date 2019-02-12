@@ -1,0 +1,12 @@
+com\crm\qa\basepack\Check2.class
+com\crm\qa\pagespack\PeopleAndOrganisations.class
+com\crm\qa\pagespack\LoginPage.class
+com\crm\qa\utilpack\SampleListener.class
+com\crm\qa\pagespack\HomePage.class
+com\crm\qa\pagespack\AddTaskPage.class
+com\crm\qa\pagespack\SalesPipeline.class
+com\crm\qa\pagespack\CalendarAndTasks.class
+com\crm\qa\utilpack\TestCommonUtiles.class
+com\crm\qa\pagespack\Cases.class
+com\crm\qa\basepack\check.class
+com\crm\qa\basepack\BaseClass.class

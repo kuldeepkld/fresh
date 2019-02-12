@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-02-10T14:44:49Z" name="Default suite" finished-at="2019-02-10T14:48:38Z" duration-ms="228819">
+    <groups>
+    </groups>
+    <test started-at="2019-02-10T14:44:49Z" name="Default test" finished-at="2019-02-10T14:48:38Z" duration-ms="228819">
+      <class name="com.crm.qa.testcasespack.AddTaskPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:44:52Z" name="setUp" finished-at="2019-02-10T14:45:15Z" duration-ms="23252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="submitAddTask(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:45:15Z" name="submitAddTask" data-provider="getCRMTestData" finished-at="2019-02-10T14:45:25Z" duration-ms="10414" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23-Dec-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Call]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitAddTask -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:45:25Z" name="tearDown" finished-at="2019-02-10T14:45:27Z" duration-ms="1405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:45:27Z" name="setUp" finished-at="2019-02-10T14:45:41Z" duration-ms="13962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="submitAddTask(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:45:41Z" name="submitAddTask" data-provider="getCRMTestData" finished-at="2019-02-10T14:45:50Z" duration-ms="9069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rama]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24-Oct-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitAddTask -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:45:50Z" name="tearDown" finished-at="2019-02-10T14:45:51Z" duration-ms="1345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:45:51Z" name="setUp" finished-at="2019-02-10T14:46:02Z" duration-ms="11251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="submitAddTask(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:02Z" name="submitAddTask" data-provider="getCRMTestData" finished-at="2019-02-10T14:46:11Z" duration-ms="8468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18-Nov-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[18.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Milestone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitAddTask -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:11Z" name="tearDown" finished-at="2019-02-10T14:46:12Z" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:12Z" name="setUp" finished-at="2019-02-10T14:46:25Z" duration-ms="12724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddTaskDate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:25Z" name="validateAddTaskDate" data-provider="getCRMTestData" finished-at="2019-02-10T14:46:29Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.submitAddTask" duration-ms="4270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23-Dec-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Call]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddTaskDate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:29Z" name="tearDown" finished-at="2019-02-10T14:46:30Z" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:30Z" name="setUp" finished-at="2019-02-10T14:46:41Z" duration-ms="10771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddTaskDate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:41Z" name="validateAddTaskDate" data-provider="getCRMTestData" finished-at="2019-02-10T14:46:44Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.submitAddTask" duration-ms="3161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rama]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24-Oct-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddTaskDate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:44Z" name="tearDown" finished-at="2019-02-10T14:46:45Z" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:45Z" name="setUp" finished-at="2019-02-10T14:46:55Z" duration-ms="10503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddTaskDate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:55Z" name="validateAddTaskDate" data-provider="getCRMTestData" finished-at="2019-02-10T14:46:59Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.submitAddTask" duration-ms="3550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18-Nov-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[18.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Milestone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddTaskDate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:46:59Z" name="tearDown" finished-at="2019-02-10T14:47:00Z" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:00Z" name="setUp" finished-at="2019-02-10T14:47:11Z" duration-ms="10766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddTaskDescription(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:11Z" name="validateAddTaskDescription" data-provider="getCRMTestData" finished-at="2019-02-10T14:47:15Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.submitAddTask" duration-ms="3995" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23-Dec-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Call]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddTaskDescription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:15Z" name="tearDown" finished-at="2019-02-10T14:47:15Z" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:15Z" name="setUp" finished-at="2019-02-10T14:47:26Z" duration-ms="10975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddTaskDescription(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:26Z" name="validateAddTaskDescription" data-provider="getCRMTestData" finished-at="2019-02-10T14:47:30Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.submitAddTask" duration-ms="4120" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rama]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24-Oct-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddTaskDescription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:30Z" name="tearDown" finished-at="2019-02-10T14:47:31Z" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:31Z" name="setUp" finished-at="2019-02-10T14:47:42Z" duration-ms="10487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddTaskDescription(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:42Z" name="validateAddTaskDescription" data-provider="getCRMTestData" finished-at="2019-02-10T14:47:45Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.submitAddTask" duration-ms="3507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18-Nov-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[18.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Milestone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddTaskDescription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:45Z" name="tearDown" finished-at="2019-02-10T14:47:46Z" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:47Z" name="setUp" finished-at="2019-02-10T14:47:57Z" duration-ms="10407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteTask(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:47:57Z" name="deleteTask" data-provider="getCRMTestData" finished-at="2019-02-10T14:48:03Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.validateAddTaskDescription" duration-ms="5654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23-Dec-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Call]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTask -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:48:03Z" name="tearDown" finished-at="2019-02-10T14:48:04Z" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:48:04Z" name="setUp" finished-at="2019-02-10T14:48:14Z" duration-ms="10551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteTask(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:48:14Z" name="deleteTask" data-provider="getCRMTestData" finished-at="2019-02-10T14:48:19Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.validateAddTaskDescription" duration-ms="5036" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rama]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24-Oct-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTask -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:48:19Z" name="tearDown" finished-at="2019-02-10T14:48:21Z" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:48:21Z" name="setUp" finished-at="2019-02-10T14:48:31Z" duration-ms="10933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteTask(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:48:31Z" name="deleteTask" data-provider="getCRMTestData" finished-at="2019-02-10T14:48:37Z" depends-on-methods="com.crm.qa.testcasespack.AddTaskPageTest.validateAddTaskDescription" duration-ms="5619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18-Nov-2019]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[18.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Milestone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTask -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcasespack.AddTaskPageTest@1329eff]" started-at="2019-02-10T14:48:37Z" name="tearDown" finished-at="2019-02-10T14:48:38Z" duration-ms="938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcasespack.AddTaskPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
